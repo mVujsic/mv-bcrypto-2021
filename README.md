@@ -5,3 +5,5 @@
 ### **Тема** : Паметни уговори, EVM, пајтон крипто мајнер
 ### **Аутор** : Матеја Вујсић
 ### **Датум** : септембар,2021.
+### Однос нонса и тежине рударења - излаз из програма
+<p align="center"> <a href="http://mfkg.rs/sr/" target="_blank"> <img src="https://github.com/mVujsic/mv-bcrypto-2021/blob/master/img/output.png" alt="plot"/></p>
